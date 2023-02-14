@@ -5,7 +5,7 @@ In this challenge the professor shows us the interpreter that we are going to us
 
 To verify that the installation has been correct, we will run the windows console (win + r and then type cmd + enter) and then enter the command: 
 
-Python  --version 
+Python   --version 
 
 We should get something like this: 
 
